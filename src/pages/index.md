@@ -13,7 +13,7 @@ schemaType: WebPage
 header: Crystal Huang
 subheader: Accomplished Interior Design Consultant
 featuredImage:
-  src: /img/headshot.jpg
+  src: /img/crystal-huang-lehi-utah.jpeg
   alt: Crystal Huang Lehi Utah
   caption: null
 missionStatement: Lehi, Utah
