@@ -1,20 +1,30 @@
 ---
 templateKey: index-page
+pageSlug: /
+pageTitle: Crystal Huang Interior Design
+metaDescription: Crystal Huang is a Lehi, Utah, entrepreneur who guides
+  Jellybean Haus, where she meets the needs of diverse residential and
+  commercial clients for luxury interiors that are also highly functional.
+  Taking time to understand her client’s needs, Lehi, Utah, resident Crystal
+  Huang creates interiors that reflect their personal preferences while
+  retaining a signature style of elegance.
 published: true
 schemaType: WebPage
-pageSlug: /
-pageTitle: '{{client_name}}, {{job_title}}'
-metaDescription: 'Personal website of {{client_name}}, {{job_title}}.'
-header: '{{client_name}}'
-subheader: '{{job_title}}'
-missionStatement: '{{mission_statement}}'
+header: Crystal Huang
+subheader: Accomplished Interior Design Consultant
 featuredImage:
   src: /img/headshot.jpg
-  alt: 'Headshot of {{client_name}}'
-  caption: ~
-shortBiography: '{{short_bio}}'
-showRecentPosts: false
+  alt: Crystal Huang Lehi Utah
+  caption: null
+missionStatement: Lehi, Utah
+shortBiography: Crystal Huang is a Lehi, Utah, entrepreneur who guides Jellybean
+  Haus, where she meets the needs of diverse residential and commercial clients
+  for luxury interiors that are also highly functional. Taking time to
+  understand her client’s needs, Lehi, Utah, resident Crystal Huang creates
+  interiors that reflect their personal preferences while retaining a signature
+  style of elegance.
 learnMoreButton:
   link: /about/
   label: Read More
+showRecentPosts: false
 ---
